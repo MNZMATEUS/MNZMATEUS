@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MNZMATEUS
 - 👀 I’m interested in cool projects about data science
 - 🌱 I’m currently learning C;C++
-- 📫 How to reach me Mateus.menezes.mmm@gmail.com
 
 <!---
 MNZMATEUS/MNZMATEUS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
